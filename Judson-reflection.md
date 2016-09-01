@@ -1,0 +1,6 @@
+##Git Concepts
+1. The pull, and push concepts were mildly fuzzy to me before this session, and forking still totally alien.
+2. When fetch and merge came up in this session, and then were clarified a bit by Hanah both those concepts and the entire git workflow process really clicked.
+3. I asked my pair about the status/location of repos on our machines vs github and posed them to the guide as well.
+4. Forking is still somewhat weird, right now I think it's essentially making github copy of the repo on my profile? or along that vein. Additionally, finding where the repos and pull requests and so forth sseem a little unintuitive on the site- kinda have to search a bit to find what i'm looking for.
+5. Very good. My pair and I were at pretty similar levels of familiarity with the material which was nice. The dialogue about roles and so forth helped facilitate communication that smoothed the transistion into working together. It also made me realize I should get set up with another monitor haha.
